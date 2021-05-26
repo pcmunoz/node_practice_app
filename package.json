@@ -1,0 +1,24 @@
+{
+  "name": "node_practice_app",
+  "version": "0.0.1",
+  "description": "Node Practice Console Application",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "lowdb": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcmunoz/node_practice_app.git"
+  },
+  "author": "pcmunoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcmunoz/node_practice_app/issues"
+  },
+  "homepage": "https://github.com/pcmunoz/node_practice_app#readme"
+}
